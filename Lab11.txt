@@ -1,0 +1,21 @@
+1. 6
+2. cout << a_list[0] << " " << a_list[5] << endl;
+3. a_list = 48, nums = 40, vowels = 5, name = 240, values = 40.
+4. Valid, a_list[4] = 3.2
+5. Invalid, need nums[ (Number) ]
+6. Valid, Adds new slot at the end that equals 'a'
+7. Valid, does 3/2 = 1.5, assigns a_list[4] to equal a_list[1]
+8. Valid, Displays nums[9] which now equals 28.
+9. Valid, turns vowel[0] = A, into integer which is 65.
+10. Valid, Multiplies a_list[i or 3] by 2. 12.5 * 2 = 25.
+11. Invalid, Wont even compile without an error, better way to do this.
+12. 0, 1, 4, 9, 16, 25, 36, 49, 64, 81.
+13. 4199737 6422124 4200224 0 6 13659836 2084992410 1986227747 1986227773 8
+14. 1, 2, 4, 8, 16, 32, 64, 128, 256, 512.
+15.
+5----*-*-*-*-*-
+3----*-*-*-
+2----*-*-
+7----*-*-*-*-*-*-*-
+1----*-
+9----*-*-*-*-*-*-*-*-*-
